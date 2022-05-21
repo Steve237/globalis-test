@@ -7,6 +7,6 @@ Réponses:
    Elle renvoie la nouvelle collection d'intervalles factorisés.
 2.
    1. Cloner le projet
-   2. exécutez l'installation du compositeur
+   2. exécutez la commande composer install
    3. exécutez le test : vendor/bin/phpunit tests/BarTest.php
 3. Cela m'a pris 4 heures.
