@@ -1,11 +1,12 @@
-This app is a solution for the test: https://github.com/armel/GlobTest
 
-Answers:
+Cette application est une solution pour le test: https://github.com/armel/GlobTest
 
-1. The function foo takes all the intervals given as input and factors them all by combining the intervals that have an intersection.
-   It returns the new collection of factored intervals.
-2. 
-   1. Clone the project
-   2. run composer install
-   3. run test: vendor/bin/phpunit tests/BarTest.php
-3. It takes me 3 hours :(
+Réponses:
+
+1. La fonction foo prend tous les intervalles donnés en entrée et les factorise tous en combinant les intervalles qui ont une intersection.
+   Elle renvoie la nouvelle collection d'intervalles factorisés.
+2.
+   1. Cloner le projet
+   2. exécutez l'installation du compositeur
+   3. exécutez le test : vendor/bin/phpunit tests/BarTest.php
+3. Cela m'a pris 4 heures.
